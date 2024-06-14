@@ -51,22 +51,6 @@ Get DOOM.wad DOOM2.wad get them on GOG.com or Steam.com (links below)
 Unless you can have the freDoom wadfiles for free : freedoom1.wad, freedoom2.wad and FreeDM on the official github/website.
 Freedoom is a version of Doom free and libre with some tweaks and it's under the GNU General Public License (GPL).
 
-Here you find the different models of Nintendo 3DS that you can buy on the market and the different abbreviations that you may encounter in a discussion.
-
-Nintendo 3DS (also name old 3ds (o3ds) or 3ds fat for short),
-
-Nintendo 3DS XL (also name old 3ds XL (o3ds XL) for short),
-
-Nintendo 2DS (also name old 2ds (o2ds) or 2ds fat for short),
-
-New Nintendo 3DS and New Nintendo 3DS XL (also name N3ds and N3ds XL for short),
-
-New Nintendo 2DS XL (also N2ds XL for short).
-
-All the 3ds systems can have this homebrew port with a hacked devices.
-But it's at you to search for how to hacked your 3ds system.
-The entire team behind PrBOOMplus-ENHANCED is not responsible if you break your device.
-
 ## List of links
 
 ### Freedoom :
